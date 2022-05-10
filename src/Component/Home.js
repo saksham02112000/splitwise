@@ -151,7 +151,7 @@ const Home = () => {
                     label="Amount"
                     type="number"
                     value={amount}
-                    placeholder="Emter Amount"
+                    placeholder="Enter Amount"
                     onChange={handleFinalChange("amount")}
                     InputLabelProps={{
                       shrink: true,
